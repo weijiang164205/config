@@ -1,0 +1,9 @@
+server:
+  port: 8772
+env: test
+branch: master
+#指定注册中心地址
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
