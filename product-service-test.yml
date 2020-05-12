@@ -1,5 +1,5 @@
 server:
-  port: 8772
+  port: 8775
 env: test
 branch: master
 #指定注册中心地址
